@@ -1,3 +1,3 @@
-# AutoZone App Demo
+# AutoZone Static Demo
 
-This is the simplified demo preview version without 3D model support.
+This is the static clickable demo with basic pages and vehicle info.
